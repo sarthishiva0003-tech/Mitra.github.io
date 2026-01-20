@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xU3bigxQh-4iIF1OVCoEzSVJyVNYBPUs
+View your app in AI Studio: https://www.signagemitra.com/
 
 ## Run Locally
 
